@@ -6,7 +6,7 @@ import { Shopping } from "./pages/Shopping/Shopping";
 export function Router(){
     return (
         <Routes>
-            <Route path="/" element={<DefaultLayout />}>
+            <Route path="/main" element={<DefaultLayout />}>
                 <Route path="/" element={<Main />} />
                 <Route path="/shopping" element={<Shopping />} />
             </Route>
