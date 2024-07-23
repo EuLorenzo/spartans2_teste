@@ -83,7 +83,7 @@ Error generating stack: `+o.message+`
     background-size: cover;
     background-repeat: no-repeat;
     background-attachment: fixed;
-`;function ov(){return X.jsx(X.Fragment,{children:X.jsx(rv,{children:X.jsx(lv,{})})})}function iv(){return X.jsx("h1",{children:"Shopping"})}function uv(){return X.jsx(Ym,{children:X.jsxs(wl,{path:"/main",element:X.jsx(tv,{}),children:[X.jsx(wl,{path:"/",element:X.jsx(ov,{})}),X.jsx(wl,{path:"/shopping",element:X.jsx(iv,{})})]})})}const sv=J0`
+`;function ov(){return X.jsx(X.Fragment,{children:X.jsx(rv,{children:X.jsx(lv,{})})})}function iv(){return X.jsx("h1",{children:"Shopping"})}function uv(){return X.jsx(Ym,{children:X.jsxs(wl,{element:X.jsx(tv,{}),children:[X.jsx(wl,{path:"/",element:X.jsx(ov,{})}),X.jsx(wl,{path:"/shopping",element:X.jsx(iv,{})})]})})}const sv=J0`
     :root{
         --white: #fff;
         --blue-500: blue;
